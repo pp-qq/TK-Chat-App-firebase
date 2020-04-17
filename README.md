@@ -1,7 +1,7 @@
 # tk-chat-app
-FirebaseとVue.jsでチャットアプリを作りました。
-https://tk-chat-app-83f31.firebaseapp.com/
-チラシの裏のように使ってください。
+FirebaseとVue.jsでチャットアプリを作りました。  
+https://tk-chat-app-83f31.firebaseapp.com/  
+チラシの裏のように使ってください。  
 
 ## Project setup
 ```
