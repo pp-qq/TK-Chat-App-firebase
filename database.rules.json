@@ -1,0 +1,10 @@
+{
+  "rules": {
+    ".read": false,
+    ".write": false,
+    "message": {
+      ".read": true,
+      ".write": "auth != null"
+    }
+  }
+}
